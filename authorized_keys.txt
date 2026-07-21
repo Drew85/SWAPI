@@ -1,1 +1,0 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAmke+moPIy8qRx6elyFZNVVZFvdoyqmMazE9PMiyW7t foxracing125ccm@gmail.com
