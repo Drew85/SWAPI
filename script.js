@@ -19,7 +19,8 @@ const IMAGE_PATHS = {
     films: "films",
     species: "species",
     vehicles: "vehicles",
-    starships: "starships"
+    starships: "starships",
+    kakukk: ""
 };
 
 
